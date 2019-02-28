@@ -1,9 +1,0 @@
-package testgomodules
-
-import (
-	"fmt"
-)
-
-func SayHello() {
-	fmt.Println("World from v2 folder in actual version 2")
-}
