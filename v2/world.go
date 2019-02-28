@@ -4,6 +4,6 @@ import (
 	"fmt"
 )
 
-func SayWorld() {
+func SayHello() {
 	fmt.Println("World from v2 folder")
 }
